@@ -1,4 +1,4 @@
-# Ex. No: 5 Creating Triggers using PL/SQL
+# Ex-05 Creating Triggers using PL/SQL
 
 ### AIM: To create a Trigger using PL/SQL.
 
