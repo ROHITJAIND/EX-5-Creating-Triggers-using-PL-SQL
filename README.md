@@ -1,7 +1,7 @@
 # EX-05 Creating Triggers using PL/SQL
 
 ### AIM: 
-To create a Trigger using PL/SQL.
+To create a Trigger using PL/SQL. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  **DATE:** 12.09.2023
 
 ### Steps:
 1. Create employee table with following attributes (empid NUMBER, empname VARCHAR(10), dept VARCHAR(10),salary NUMBER);
